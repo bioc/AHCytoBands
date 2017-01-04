@@ -1,7 +1,7 @@
 Package: AHCytoBands
 Type: Package
 Title: CytoBands for AnnotationHub
-Version: 0.0.1
+Version: 0.99.0
 Encoding: UTF-8
 Author: Michael Lawrence
 Maintainer: Michael Lawrence <michafla@gene.com>
