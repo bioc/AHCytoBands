@@ -1,0 +1,6 @@
+* Description
+  Supplies AnnotationHub with CytoBand information from UCSC.  There
+  is a track for each major organism. Giemsa-stained bands are
+  commonly used to decorate chromosomal overviews in visualizations of
+  genomic data.
+  

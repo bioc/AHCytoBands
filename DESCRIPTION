@@ -1,0 +1,16 @@
+Package: AHCytoBands
+Type: Package
+Title: CytoBands for AnnotationHub
+Version: 0.0.1
+Encoding: UTF-8
+Author: Michael Lawrence
+Maintainer: Michael Lawrence <michafla@gene.com>
+Depends: R (>= 3.2.2), methods
+Imports: 
+Description: Supplies AnnotationHub with CytoBand information from UCSC.
+             There is a track for each major organism. Giemsa-stained bands
+	     are commonly used to decorate chromosomal overviews in
+	     visualizations of genomic data.
+License: Artistic-2.0
+LazyLoad: yes
+biocViews: DataImport
