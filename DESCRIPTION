@@ -1,7 +1,7 @@
 Package: AHCytoBands
 Type: Package
 Title: CytoBands for AnnotationHub
-Version: 0.99.0
+Version: 0.99.1
 Encoding: UTF-8
 Author: Michael Lawrence
 Maintainer: Michael Lawrence <michafla@gene.com>
@@ -13,4 +13,4 @@ Description: Supplies AnnotationHub with CytoBand information from UCSC.
 	     visualizations of genomic data.
 License: Artistic-2.0
 LazyLoad: yes
-biocViews: DataImport
+biocViews: DataImport, AnnotationHub
